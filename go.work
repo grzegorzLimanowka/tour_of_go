@@ -1,0 +1,13 @@
+go 1.21.2
+
+// Go workspaces
+
+// Note: uncomment to allow go static code analysis
+
+use (
+	./empty
+// ./coroutines
+// ./basics
+// ./project-two
+// ./project-two/mypackage
+)
