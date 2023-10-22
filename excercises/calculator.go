@@ -1,4 +1,4 @@
-package main
+package excercises
 
 // Simple calculator, just to fiddle around with golangs interfaces
 

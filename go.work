@@ -6,6 +6,10 @@ go 1.21.2
 
 use (
 	./empty
+	// ./excercises
+	.
+// main
+// main
 // ./coroutines
 // ./basics
 // ./project-two
