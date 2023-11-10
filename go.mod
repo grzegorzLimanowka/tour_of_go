@@ -1,4 +1,4 @@
-module tour_of_go
+module main
 
 go 1.21.2
 
